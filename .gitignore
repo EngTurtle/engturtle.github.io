@@ -1,0 +1,5 @@
+_site/*
+.idea/*
+*Thumbs.db
+*nppBackup*
+Gemfile.lock
